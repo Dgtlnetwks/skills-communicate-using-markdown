@@ -63,3 +63,14 @@ print(s)
 ```
 
 ---
+## Part 4: Make a task list
+In this part we will create a task list
+
+### Example
+This is a task list with some jobs completed
+
+ - [x] Start the markdown tutorial for GitHub
+ - [x] This item is completed
+ - [ ] This item is outstanding
+
+***
