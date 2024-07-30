@@ -78,3 +78,10 @@ This is a task list with some jobs completed
 When you are satisfied with all the changes to your branch you may want to merge them with the main branch. This ensures that the code base is up to date with the new features or corrections. We use a branch to test our development without affecting the main code base otherwise bad commits will infect the main code base, resulting in broken packages.
 
 ___
+## Part 6: Enable GitHub Pages
+Enable GitHub Pages to see your Markdown file as website.
+1. Under your repository name at the upper right corner, click on **Settings**
+2. Then in the lower left, click on **Pages** in the **Code and Automation** section
+3. In the **GitHub Pages** section, ensure _"Deploy from a branch"_ is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop down menu as your GitHub Pages publishing source.
+4. Click the **Save** button.
+5. Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
