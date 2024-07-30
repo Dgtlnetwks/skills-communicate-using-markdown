@@ -74,3 +74,7 @@ This is a task list with some jobs completed
  - [ ] This item is outstanding
 
 ***
+## Part 5: Merge your pull request
+When you are satisfied with all the changes to your branch you may want to merge them with the main branch. This ensures that the code base is up to date with the new features or corrections. We use a branch to test our development without affecting the main code base otherwise bad commits will infect the main code base, resulting in broken packages.
+
+___
