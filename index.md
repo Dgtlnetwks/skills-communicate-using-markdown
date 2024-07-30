@@ -23,3 +23,12 @@ The very last sub-heading supported. **Don't go below this!!!**
 This is obviously a stupid attempt at going below the lowest level of heading supported.
 <hr>
 Can embed HTML code within markdown.
+<hr>
+# Part 2: Add an image to the markdown file
+In this part we will add an image to the markdown file using a statement similar to
+
+ >`![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
+ 
+and this should result in an image being displayed, as thus
+
+![Image of Yaktocat](https://github.com/user-attachments/assets/7ed10dff-5549-453e-8cb8-7f46a04e61fd)
